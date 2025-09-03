@@ -27,7 +27,7 @@ this ensures descriptive metrics are calculated for over a long of time by group
 
 ![](Dataaggregation.png)
 
-## Data Visualation
+## Data Visualization
 this visually give a general overview of what happened in the ecommerce sector over a period of time
 
 ![](Dashboard1.png)
